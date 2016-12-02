@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://wudi2010.github.io/blog/"/>
-  <updated>2016-12-02T02:39:42.000Z</updated>
+  <updated>2016-12-02T06:43:30.000Z</updated>
   <id>https://wudi2010.github.io/blog/</id>
   
   <author>
@@ -19,8 +19,8 @@
     <title>Hello World</title>
     <link href="https://wudi2010.github.io/blog/2016/12/02/hello-world/"/>
     <id>https://wudi2010.github.io/blog/2016/12/02/hello-world/</id>
-    <published>2016-12-02T02:39:42.000Z</published>
-    <updated>2016-12-02T02:39:42.000Z</updated>
+    <published>2016-12-02T06:30:17.000Z</published>
+    <updated>2016-12-02T06:43:30.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -39,6 +39,41 @@
     
     </summary>
     
+    
+      <category term="blog" scheme="https://wudi2010.github.io/blog/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>最新开始的博客</title>
+    <link href="https://wudi2010.github.io/blog/2016/12/02/My-New-Post/"/>
+    <id>https://wudi2010.github.io/blog/2016/12/02/My-New-Post/</id>
+    <published>2016-12-02T06:30:17.000Z</published>
+    <updated>2016-12-02T08:45:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h2><h3 id="重点说明模块"><a href="#重点说明模块" class="headerlink" title="重点说明模块"></a>重点说明模块</h3><blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p>
+</blockquote>
+<blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
+<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>
+<h3 id="代码模块"><a href="#代码模块" class="headerlink" title="代码模块"></a>代码模块</h3><figure class="highlight objc"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">[rectangle setX: <span class="number">10</span> y: <span class="number">10</span> width: <span class="number">20</span> height: <span class="number">20</span>];</div></pre></td></tr></table></figure>
+<figure class="highlight plain"><figcaption><span>Array.map</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">array.map(callback[, thisArg])</div></pre></td></tr></table></figure>
+<blockquote class="pullquote [class]"><p>content</p>
+</blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;使用说明&quot;&gt;&lt;a href=&quot;#使用说明&quot; class=&quot;headerlink&quot; title=&quot;使用说明&quot;&gt;&lt;/a&gt;使用说明&lt;/h2&gt;&lt;h3 id=&quot;重点说明模块&quot;&gt;&lt;a href=&quot;#重点说明模块&quot; class=&quot;headerlink&quot; title=&quot;重点说明模
+    
+    </summary>
+    
+      <category term="技术总结" scheme="https://wudi2010.github.io/blog/categories/%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93/"/>
+    
+    
+      <category term="Injury" scheme="https://wudi2010.github.io/blog/tags/Injury/"/>
+    
+      <category term="Fight" scheme="https://wudi2010.github.io/blog/tags/Fight/"/>
+    
+      <category term="Shocking" scheme="https://wudi2010.github.io/blog/tags/Shocking/"/>
     
   </entry>
   
